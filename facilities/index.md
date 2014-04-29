@@ -19,7 +19,7 @@ wind tunnels, the General Sullivan Bridge tidal energy site, the UNH Pier and th
 energy site.  Mooring grids, historical environmental and survey data, and support vessels 
 are readily available.
 
-![CORE physical infrastructure map](../assets/images/UNH-CORE-physical_resources_map.jpg "CORE physical infrastructure map")
+![CORE physical infrastructure map](/assets/images/UNH-CORE-physical_resources_map.JPG "CORE physical infrastructure map")
 
 The map above shows key sites of the Center for Ocean Renewable Energy (CORE), University of New 
 Hampshire: Ocean Engineering Laboratory, Tidal and Wave Energy Test Sites, UNH Pier (staging, 
