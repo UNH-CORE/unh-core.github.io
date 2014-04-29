@@ -1,4 +1,7 @@
-# Jekyll-Bootstrap
+# UNH-CORE Jekyll-Bootstrap site
+
+## Useful resources
+  * <http://www.benknowscode.com/2012/08/using-jekyll-to-create-site-on-github_2028.html>
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
