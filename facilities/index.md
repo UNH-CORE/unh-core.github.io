@@ -23,8 +23,7 @@ are readily available.
 
 The map above shows key sites of the Center for Ocean Renewable Energy (CORE), University of New 
 Hampshire: Ocean Engineering Laboratory, Tidal and Wave Energy Test Sites, UNH Pier (staging, 
-support vessels). Note the geographic proximity (horizontal bar = 2.5 miles). (Click on image to 
-enlarge) 
+support vessels). Note the geographic proximity (horizontal bar = 2.5 miles).
 
 Tidal Energy Test Site
 ----------------------
@@ -47,6 +46,6 @@ site has a subsurface mooring system and a large feed buoy (AMAC) is available a
 platform and a potential end user load for any wave energy extraction device. The site comes 
 with a dedicated 50 ft research vessel (Meriel B). Available environmental data consisting 
 of wave monitoring, benthic and water column environmental data, and bathymetry obtained by 
-the UNH Center for Coastal and Ocean Mapping (C-COM) will be essential for the quick successful 
+the UNH Center for Coastal and Ocean Mapping (CCOM) will be essential for the quick successful 
 deployment of a given energy extraction device, and makes this a cost effective wave energy 
 test site.
