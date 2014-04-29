@@ -1,5 +1,11 @@
 # UNH-CORE Jekyll-Bootstrap site
 
+## To view locally
+In a terminal, type
+
+    jekyll serve --watch
+
+
 ## Useful resources
   * <http://www.benknowscode.com/2012/08/using-jekyll-to-create-site-on-github_2028.html>
 
