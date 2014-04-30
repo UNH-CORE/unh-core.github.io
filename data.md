@@ -18,16 +18,14 @@ To clone the dataset along with Python scripts for plotting, see...
 ### Citation
 To cite, please use
 
-```
-@INPROCEEDINGS{Bachant2011AJK,
-  author = {Peter Bachant and Martin Wosnik},
-  title = {Experimental Investigation of Helical Cross-Flow Axis Hydrokinetic
-	Turbines, Including Effects of Waves and Turbulence},
-  booktitle = {Proceedings of ASME-JSME-KSME Joint Fluids Engineering Conference 2011},
-  year = {2011},
-  number = {AJK2011-07020},
-  address = {Hamamatsu, Shizuoka, JAPAN},
-  month = {July},
-  doi = {10.1115/AJK2011-07020}
-}
-```
+	@INPROCEEDINGS{Bachant2011AJK,
+	  author = {Peter Bachant and Martin Wosnik},
+	  title = {Experimental Investigation of Helical Cross-Flow Axis Hydrokinetic
+		Turbines, Including Effects of Waves and Turbulence},
+	  booktitle = {Proceedings of ASME-JSME-KSME Joint Fluids Engineering Conference 2011},
+	  year = {2011},
+	  number = {AJK2011-07020},
+	  address = {Hamamatsu, Shizuoka, JAPAN},
+	  month = {July},
+	  doi = {10.1115/AJK2011-07020}
+	}
