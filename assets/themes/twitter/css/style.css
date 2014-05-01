@@ -63,3 +63,13 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+  
+/* Navbar logo */
+.navbar .nav > li > a.brand-image {
+      padding: 0px 0px 0px 0px;
+}
+.navbar .nav > li > a > img.brand-image {
+    -webkit-border-radius: 0px;
+       -moz-border-radius: 0px;
+            border-radius: 0px;
+}
