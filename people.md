@@ -71,7 +71,7 @@ Assist. Prof. \\
 Associate Director, Tidal Energy
 
 Office: Kingsbury Hall S252 \\
-Email: [martin.wosnik@unh.edu](mailto:martin.wosnik@unh.edu \\
+Email: [martin.wosnik@unh.edu](mailto:martin.wosnik@unh.edu) \\
 Phone: (603) 862-1891
 
 
