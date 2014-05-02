@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Blog
+title: News
 group: navigation
 ---
 
 <div id="home">
-  <h1>Posts</h1>
+  <h1>News</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
