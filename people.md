@@ -82,7 +82,7 @@ Faculty
           Phone: (603)   862-1495</p></td>
           <td><img src="assets/images/people/faculty_Wosnik.jpg" alt="Martin Wosnik, Ph.D., Mechanical Engineering" width="79" height="84" /></td>
           <td><strong><span class="style3"><a href="mailto:martin.wosnik@unh.edu">Martin Wosnik</a></span></strong><span class="style3"> <br />
-              <span class="style1">Assist. Prof </span></span><span class="style1"><br />
+              <span class="style1">Assist. Prof. </span></span><span class="style1"><br />
 Associate Director, Tidal Energy</span> 
 <p><br />
   Office: Kingsbury Hall S252<br />
