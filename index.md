@@ -1,7 +1,8 @@
 ---
-layout: page
-title:
+layout: homepage
+title: Home
 tagline: UNH Center for Ocean Renewable Energy
+header: UNH-CORE
 ---
 {% include JB/setup %}
 

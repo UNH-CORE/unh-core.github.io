@@ -1,11 +1,11 @@
 ---
-layout: default
-title: News
-group: 
+layout: page
+title: Posts
+header: "UNH-CORE | Posts"
 ---
 
 <div id="home">
-  <h1>News</h1>
+  <h1>All Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
