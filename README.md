@@ -19,3 +19,6 @@ In a terminal, type
 ## Creating a new post
 
     rake post title="This is the title" category="insert-category-here"
+
+## To-do
+  * Only show latest 5 posts or so on home page?
