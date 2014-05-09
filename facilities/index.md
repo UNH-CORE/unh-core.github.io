@@ -2,7 +2,7 @@
 layout: page
 title: "Facilities"
 description: "A page for listing facilities descriptions."
-group: navigation
+group: 
 ---
 {% include JB/setup %}
 
