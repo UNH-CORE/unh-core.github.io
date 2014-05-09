@@ -6,17 +6,20 @@ group: navigation
 ---
 {% include JB/setup %}
 
-This page contains various videos of work by UNH-CORE.
+This page contains various videos of work by UNH-CORE. Be sure to subscribe to our new 
+<a href="https://www.youtube.com/channel/UCwj4ipbUiUkTY1-sFpAUIGg" target="_blank">YouTube channel</a> for more.
 
 ### UNH-RVAT 2-D RANS simulation
 <center>
 <iframe width="420" height="315" src="//www.youtube.com/embed/AQ4EztjPEFk" frameborder="0" allowfullscreen></iframe>
 </center>
 
+
 ### 2013 UNH-RVAT lab experiments
 <center>
 <iframe width="560" height="315" src="//www.youtube.com/embed/pyw-38ypWcI" frameborder="0" allowfullscreen></iframe>
 </center>
+
 
 ### 2012 Muskeget Channel field experiments
 <center>
