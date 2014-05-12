@@ -3,7 +3,7 @@ layout: post
 title: "Velocity Deficit and Swirl in the Turbulent Wake of a Wind Turbine"
 description: ""
 category: "journal-articles"
-tags: [wind energy, turbines, wakes, axial-flow]
+tags: [wind, turbines, wakes, axial-flow]
 author: "N. Dufresne and M. Wosnik"
 year: "2013"
 ---
