@@ -8,6 +8,11 @@ group: navigation
 
 Journal articles
 ----------------
+<ul>
+  {% for post in site.categories.journal-articles %}
+      <li>{{ post.author }}, {{ post.year }}, <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 Peer-reviewed conference papers
 -------------------------------
