@@ -9,6 +9,8 @@ year: "2013"
 ---
 {% include JB/setup %}
 
+**Authors:** N. Dufresne and M. Wosnik
+
 This article, published in the Marine Technology Society Journal, describes a theoretical
 and experimental investigation into the wake of an axial-flow turbine in a wind tunnel.
 
