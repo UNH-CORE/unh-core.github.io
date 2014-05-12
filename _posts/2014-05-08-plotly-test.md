@@ -2,7 +2,7 @@
 layout: post
 title: "plotly test"
 description: ""
-category: 
+category: "testing"
 tags: []
 ---
 {% include JB/setup %}
