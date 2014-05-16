@@ -6,6 +6,8 @@ group: facilities
 ---
 {% include JB/setup %}
 
+![Tow/wave tank](/assets/images/tow_tank_overview.jpg)
+
 Our tow/wave tank, located at the Jere A. Chase Ocean Engineering Laboratory, was constructed
 in 1996, and its linear motion, control, and data aquisition systems were redesigned and
 renovated in 2012. 
