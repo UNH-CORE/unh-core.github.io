@@ -15,18 +15,16 @@ The tank is also home to our [turbine test bed](turbine-test-bed.html).
 Specs summary
 -------------
 
-Width, depth, length | 3.66 m, 2.44 m, 36 m 
-Max tow speed (m/s)  | 3 m/s
+| Width, depth, length | 3.66 m, 2.44 m, 36 m |
+| Max tow speed        | 3 m/s |
+| Max acceleration     | 2 m/s<sup>2</sup> |
+| Max drag force       | 5400 N |
+| Positioning accuracy | &plusmn;0.5 mm |
+| Speed accuracy[^1]   | &plusmn;0.2 mm/s at 1 m/s |
+| Wave spectra         | Regular, JONSWAP, Bretschneider, Pierson--Moskowitz |
+| Max wave height      | 0.4 m |
+| Wave period range    | 1--4 s |
+{: class="table table-condensed" rules="groups"}
 
-|--------------------+---------------+--------------------+-------------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|--------------------|:--------------|:------------------:|------------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|--------------------+---------------+--------------------+-------------------|
-| Second body        |               |                    |                   |
-| 2 line             |               |                    |                   |
-|====================+===============+====================+===================|
-| Footer row         |               |                    |                   |
-|--------------------+---------------+--------------------+-------------------| 
+
+[^1]: Note: this is a mean value taken while towing the UNH-RVAT turbine at a tip speed ratio $$\lambda=1.9$$.
