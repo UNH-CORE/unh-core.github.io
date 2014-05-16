@@ -35,7 +35,7 @@ Linear motion and control
 -------------------------
 Along the length of the tank are two 1.25 inch diameter 440C stainless steel linear shafts, 
 guiding the motion of the
-main tow and YZ traversing carriage. The carriage motion is actuated by a permanent magnet servo motor,
+main tow and YZ traversing carriages. The carriage motion is actuated by a permanent magnet servo motor,
 driving an ATL20 timing belt. Servo drives for the carriage, [turbine test bed](turbine-test-bed.html),
 and YZ traverse motors
 are all controlled by an EtherCAT master real time controller, providing precise synchronization between
