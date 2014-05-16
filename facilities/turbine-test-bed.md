@@ -29,6 +29,8 @@ Specifications summary
 | Max measured drag              | 4400 N |
 {: class="table table-half table-condensed" rules="groups"}
 
+See the [tow tank specifications](tow-tank.html) for more information.
+
 Loading and control
 -------------------
 The turbine is loaded via a Kollmorgen AKM62Q servo motor, powered by a Kollmorgen AKD servo drive and 
