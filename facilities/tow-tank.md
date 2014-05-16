@@ -48,7 +48,8 @@ including sampling carriage position from the 10 &mu;m resolution linear encoder
 Data collection from motion control devices is also possible through the main motion controller, 
 and from up to 8 serial devices simultaneously. 
 
-There is enough AC power on board the carriage to run a high frame rate particle image velocimetry (HFR-PIV) system.
+There is enough AC power available on board the carriage to operate a high frame rate particle image velocimetry 
+(HFR-PIV) system.
 An additional servo drive on the carriage is used to provide precise control of turbine RPM when operating the
 [turbine test bed](turbine-test-bed.html). There is also a 2-axis stepper drive, mainly used to control the y- 
 and z-location of a Nortek Vectrino acoustic Doppler velocimeter (ADV).
