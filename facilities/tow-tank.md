@@ -14,8 +14,8 @@ renovated in 2012.
 
 The tank is also home to our [turbine test bed](turbine-test-bed.html).
 
-Specs summary
--------------
+Specifications summary
+----------------------
 
 | Width, depth, length | 3.66 m, 2.44 m, 36 m |
 | Max tow speed        | 3 m/s |
