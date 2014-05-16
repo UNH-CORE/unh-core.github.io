@@ -31,8 +31,8 @@ Specs summary
 [^1]: Note: this is a mean value taken while towing the UNH-RVAT turbine at a tip speed ratio $$\lambda=1.9$$.
 
 
-Linear motion and control system
---------------------------------
+Linear motion and control
+-------------------------
 Along the length of the tank are two 1.25 inch diameter 440C stainless steel linear shafts, 
 guiding the motion of the
 main tow and YZ traversing carriage. The carriage motion is actuated by a permanent magnet servo motor,
