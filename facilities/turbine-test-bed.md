@@ -10,7 +10,7 @@ group: facilities
 
 The UNH-CORE turbine test bed was originally designed and built in 2010, then upgraded in 2012 along
 with the [tow tank's](tow-tank.html) motion, control, and data acquisition systems. The turbine test bed provides
-infrastructure for measuring the performance and near-wake flows of turbines at moderate Reynolds number
+infrastructure for measuring the performance and near-wake flows of turbines at moderate Reynolds number.
 To date, the system has mainly been used with vertical-axis
 (cross-flow) turbines, though it has also been used to test FloDesign's Mixer-Ejector axial-flow hydrokinetic
 turbine.
