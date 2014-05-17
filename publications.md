@@ -16,6 +16,11 @@ Journal articles
 
 Peer-reviewed conference papers
 -------------------------------
+<ul>
+  {% for post in site.categories.conference-papers %}
+      <li>{{ post.author }}, {{ post.year }}, <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 Theses and dissertations
 ------------------------
