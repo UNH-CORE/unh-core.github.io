@@ -6,7 +6,7 @@ group: facilities
 ---
 {% include JB/setup %}
 
-<img style="float:right" src="/assets/images/turbine_test_bed.jpg" width="45%" padding="20px">
+<img style="float:right;margin:0px 0px 10px 10px" src="/assets/images/turbine_test_bed.jpg" width="45%"/>
 
 The UNH-CORE turbine test bed was originally designed and built in 2010, then upgraded in 2012 along
 with the [tow tank's](tow-tank.html) motion, control, and data acquisition systems. The turbine test bed provides
