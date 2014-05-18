@@ -56,3 +56,13 @@ See
 <a href="http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1790006" target="_blank">
 ASME Digital Collection</a>.
 
+## Video
+The video below contains footage from these experiments:
+
+<center>
+<iframe width="560" height="315" src="//www.youtube.com/embed/pyw-38ypWcI" frameborder="0" allowfullscreen></iframe>
+</center>
+
+
+
+
