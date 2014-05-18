@@ -3,16 +3,20 @@ layout: post
 title: "2011 GHT/LST tow tank experiments"
 description: ""
 category: "datasets"
-tags: []
+tags: [cross-flow, GHT, LST, tow tank]
 ---
 {% include JB/setup %}
 
+## Publications
+
 These data were used in the following publications:
+  
+  * Bachant and Wosnik, 2011, [Experimental investigation of helical cross-flow axis turbines, including effects of waves and turbulence]({% post_url 2011-09-01-experimental-investigation-of-helical-cross-flow-axis-turbines %})
 
-### Repository
-To clone the dataset along with Python scripts for plotting, see...
+## Repository download
+This data set is not yet available, but will be soon, pending journal publication.
 
-### Citation
+## Citation
 To cite, please use
 
 	@INPROCEEDINGS{Bachant2011AJK,
@@ -26,3 +30,6 @@ To cite, please use
 	  month = {July},
 	  doi = {10.1115/AJK2011-07020}
 	}
+
+Note that a journal article regarding this data set has been accepted, 
+which will become the primary citation upon publication.
