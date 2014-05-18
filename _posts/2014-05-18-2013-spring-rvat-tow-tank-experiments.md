@@ -37,3 +37,10 @@ To download the reduced data and plotting scripts,
 
 Note that a journal article regarding this data set his in progress, 
 which will become the primary citation upon publication.
+
+## Video
+The video below contains footage from these experiments:
+
+<center>
+<iframe width="560" height="315" src="//www.youtube.com/embed/pyw-38ypWcI" frameborder="0" allowfullscreen></iframe>
+</center>

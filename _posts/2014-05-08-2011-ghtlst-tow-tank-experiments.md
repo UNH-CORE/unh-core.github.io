@@ -33,3 +33,10 @@ To cite, please use
 
 Note that a journal article regarding this data set has been accepted, 
 which will become the primary citation upon publication.
+
+## Video
+The video below contains footage from these experiments:
+
+<center>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Js5b2Il0Rhc" frameborder="0" allowfullscreen></iframe>
+</center>
