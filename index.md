@@ -15,7 +15,7 @@ Note that this is a temporary test site under construction. The official UNH-COR
     {% for post in site.posts limit:4%}
       <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
       <span><i>Posted {{ post.date | date_to_string }}</i></span><br><br>
-      {{ post.content | truncatewords:80 }}<br><br>
+      {{ post.content | truncatewords:50 }}<br><br>
        <a href="{{ post.url }}">Read more...</a><br><br>
     {% endfor %}
 </div>
