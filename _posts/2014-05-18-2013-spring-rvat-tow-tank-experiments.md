@@ -11,7 +11,7 @@ tags: [data, UNH-RVAT, tow tank, cross-flow]
 
 These data were used in the following publications:
   
-  * Bachant and Wosnik, 2013, [PErformance and near-wake measurements for a vertical axis turbine at moderate Reynolds number]({% post_url 2013-09-01-performance-and-near-wake-measurements-vat %})
+  * Bachant and Wosnik, 2013, [Performance and near-wake measurements for a vertical axis turbine at moderate Reynolds number]({% post_url 2013-09-01-performance-and-near-wake-measurements-vat %})
 
 ## Repository download
 Note that this data set is not yet uploaded, pending a journal publication.
