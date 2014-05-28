@@ -9,6 +9,10 @@ header: UNH-CORE
 Note that this is a temporary test site under construction. The official UNH-CORE site is located at
 [http://unh.edu/core](http://unh.edu/core).
 
+CORE, the UNH Center for Ocean Renewable Energy, founded in January 2008, provides multiple-scale research,
+technology development and evaluation, education, and outreach for issues related to Ocean Renewable Energy 
+systems.
+
 ---
 
 <div id="home">
