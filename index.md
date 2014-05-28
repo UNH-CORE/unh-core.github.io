@@ -16,7 +16,7 @@ systems.
 <div id="home">
     {% for post in site.posts limit:4%}
       <hr>
-      <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      <a href="{{ post.url }}"><h1>{{ post.title }}</h1></a>
       <span><i>Posted {{ post.date | date_to_string }}</i></span><br><br>
       {{ post.content | truncatewords:50 }}<br><br>
        <a href="{{ post.url }}">Read more...</a><br><br>
