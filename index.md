@@ -13,10 +13,9 @@ CORE, the UNH Center for Ocean Renewable Energy, founded in January 2008, provid
 technology development and evaluation, education, and outreach for issues related to Ocean Renewable Energy 
 systems.
 
----
-
 <div id="home">
     {% for post in site.posts limit:4%}
+      <hr>
       <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
       <span><i>Posted {{ post.date | date_to_string }}</i></span><br><br>
       {{ post.content | truncatewords:50 }}<br><br>
