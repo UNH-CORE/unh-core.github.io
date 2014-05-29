@@ -25,5 +25,6 @@ In a terminal, execute
     rake post title="This is the title" category="insert-category-here"
 
 ## To-do
-  * Add posts for all papers, presentations, datasets, projects, etc.
-  * Add content to `About` and `Contact` pages.
+  - [ ] Add posts for all papers, presentations, datasets, projects, etc.
+  - [ ] Add content to `About` and `Contact` pages.
+  - [ ] Reorganize `Facilities` page and make subpages for field sites.
