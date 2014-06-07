@@ -46,9 +46,7 @@ In a terminal, execute
     rake post title="This is the title" category="insert-category-here"
 
 ### To-do
-  - [ ] Add posts for all papers, presentations, datasets, projects, etc.
-  - [ ] Add content to `About` and `Contact` pages.
-  - [ ] Reorganize `Facilities` page and make subpages for field sites.
+See the [issues](https://github.com/UNH-CORE/unh-core.github.io/issues) on GitHub
 
 ## Deployment
 We can either upload the entire site folder to the UNH server---via FTP for example---or get the UNH
