@@ -24,11 +24,11 @@ It is recommended you are running Linux or Mac OSX to contribute. If running Win
 
 ### Dependencies for local building and viewing
 
-To be able to build the site locally, you will need to be running Linux or Mac OSX, with
-  * Ruby
-  * Jekyll
-  * kramdown
-  * rake
+To be able to build the site locally, you will need to be running Linux or Mac OSX, with (Ubuntu command for installing)
+  * Ruby (`sudo apt-get install ruby-dev`)
+  * Jekyll (`sudo gem install jekyll`)
+  * Node.js (`sudo apt-get install nodejs`)
+  * rake (`sudo apt-get install rake`)
 
 Of course, all text files can be edited directly from the repository on GitHub, but you will not
 be able to preview changes.
