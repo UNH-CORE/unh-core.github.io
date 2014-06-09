@@ -4,7 +4,7 @@
 ### Getting started
 
 It is recommended you are running Linux or Mac OSX to contribute. If running Windows, you can
-[set up a Linux virtual machine using VirtualBox](http://www.instructables.com/id/Introduction-38/)
+[set up a Linux virtual machine using VirtualBox](http://www.instructables.com/id/Introduction-38/).
 
   1. Install [Git](http://git-scm.com)
   2. If you don't have one, create an account on [GitHub](https://github.com) and email a member of
@@ -14,7 +14,8 @@ It is recommended you are running Linux or Mac OSX to contribute. If running Win
      "Git bash here") and execute `git clone https://github.com/UNH-CORE/unh-core.github.io.git`
   4. Edit/create content inside the Markdown (`*.md`) files. See existing files in the `_posts` directory
      for examples. Also see the section below about creating a new post.
-  5. Preview your changes locally (see section below).
+  5. Preview your changes locally (see section below). You can see a summary of files modified by executing
+     `git status`, or see the changes individually with `git diff`.
   6. If your changes are acceptable, stage all for a commit by executing `git add -A` in the terminal, then 
      commit with `git commit -m "Your commit message goes here"`. A commit message should be descriptive
      of the changes made, e.g., "Create post about 2014 wave device experimental data set". 
@@ -46,7 +47,7 @@ In a terminal, execute
     rake post title="This is the title" category="insert-category-here"
 
 ### To-do
-See the [issues](https://github.com/UNH-CORE/unh-core.github.io/issues) on GitHub
+See the [issues](https://github.com/UNH-CORE/unh-core.github.io/issues) on GitHub.
 
 ## Deployment
 We can either upload the entire site folder to the UNH server---via FTP for example---or get the UNH
