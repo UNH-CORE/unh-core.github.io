@@ -28,7 +28,6 @@ To be able to build the site locally, you will need to be running Linux or Mac O
   * Ruby (`sudo apt-get install ruby-dev`)
   * Jekyll (`sudo gem install jekyll`)
   * Node.js (`sudo apt-get install nodejs`)
-  * rake (`sudo apt-get install rake`)
 
 Of course, all text files can be edited directly from the repository on GitHub, but you will not
 be able to preview changes.
@@ -41,10 +40,24 @@ In a terminal, execute
 Then, in a browser, navigate to http://0.0.0.0:4000/. As Markdown (`*.md`) and HTML files are edited,
 the local server will update the site automatically. 
 
-### Creating a new post
-In a terminal, execute
+### Creating a new post with Rake
+First, you'll need to have Rake installed (`sudo apt-get install rake`), then 
+in a terminal, execute
 
     rake post title="This is the title" category="insert-category-here"
+
+This post will be generated automatically (named properly) in the `_posts` directory. Open the new file with
+a text editor and write your post. Jekyll will automatically generate the necessary HTML. 
+
+### Typsetting math with LaTeX
+The site is set up to automatically typeset math via Mathjax. For inline math use, e.g., `$$f = ma$$`, otherwise
+use
+
+```
+$$ 
+f = ma
+$$
+```
 
 ### To-do
 See the [issues](https://github.com/UNH-CORE/unh-core.github.io/issues) on GitHub.
